@@ -1,0 +1,17 @@
+body {
+    font-family: Georgia, Garamond, 'Times New Roman', serif;
+    background-color: #1e1e1e;
+    color: #cfd0cf; 
+}
+
+a {
+    color: #9fa8a7;
+}
+
+a:hover{
+    color: #a7776e;
+}
+
+a:visited {
+    color: #eadebd;
+}

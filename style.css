@@ -2,6 +2,22 @@ body {
     font-family: Georgia, Garamond, 'Times New Roman', serif;
     background-color: #1e1e1e;
     color: #cfd0cf; 
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.main-title,
+.subpage-nav-menu {
+    width: 450px;
+    margin: 1em auto;
+    padding: 25px;
+    border: #808080 1px dashed;
+    text-align: center;
+}
+
+li {
+    padding: .25em .25em;
+    text-align: left;
 }
 
 a {
@@ -14,4 +30,9 @@ a:hover{
 
 a:visited {
     color: #eadebd;
+}
+
+img {
+    height: auto;
+    width: auto;
 }

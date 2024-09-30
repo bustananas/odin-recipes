@@ -4,6 +4,7 @@ body {
     color: #cfd0cf; 
     box-sizing: border-box;
     text-align: center;
+    margin: 0 auto;
 }
 
 .main-title,
@@ -13,6 +14,7 @@ body {
     padding: 25px;
     border: #808080 1px dashed;
     text-align: center;
+    font-weight: bold;
 }
 
 li {
@@ -33,6 +35,6 @@ a:visited {
 }
 
 img {
-    height: auto;
+    height: 350px;
     width: auto;
 }
